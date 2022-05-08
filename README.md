@@ -1,6 +1,6 @@
 # README Generator
 
-undefined(https://opensource.org/licenses/Apache-2.0)
+![Apache 2.0](https://img.shields.io/badge/License-Apache2.0-red.svg)
 
 # Description
 This is a README generator.
@@ -28,5 +28,5 @@ JUST MEEE
 
 undefined(https://opensource.org/licenses/Apache-2.0)
 
-![2022-05-08 13-36-06](https://user-images.githubusercontent.com/98782803/167308571-2d9375ce-9b2c-4da0-bcf4-a53ae7af1ca3.gif)
+![Apache 2.0](https://img.shields.io/badge/License-Apache2.0-red.svg)
 
